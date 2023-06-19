@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehraAditya.
-- 👀 I’m interested in Ethical hacking.
+- 👀 I’m interested in Data Science and Cybersecurity.
 - 🌱 I’m currently learning Computer Science & Engineering. 
 - 📫 Reach me on :- https://linktr.ee/AdityaMehra
 
