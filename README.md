@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MehraAditya.
 - 👀 I’m interested in Data Science and Cybersecurity.
-- 🌱 I’m currently learning Computer Science & Engineering. 
-- 📫 Reach me on :- https://linktr.ee/AdityaMehra
+- 📫 Reach me on :- adityamehra.org
 
 <!---
 MehraAditya/MehraAditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
