@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehraAditya.
-- 👀 I’m interested in Data Science and Cybersecurity.
-- 📫 Reach me on :- adityamehra.org
+- 👀 I’m interested in Data Science and Development.
+- 📫 Reach me on :- mail4adityamehra@gmail.com
 
 <!---
 MehraAditya/MehraAditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
