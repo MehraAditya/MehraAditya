@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @MehraAditya.
-- 👀 I’m interested in Data Science and Development.
-- 📫 Reach me on :- mail4adityamehra@gmail.com
+# Hi there 👋 I'm Aditya Mehra
 
-<!---
-MehraAditya/MehraAditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Founder & Software Developer at **EYEDOO**
+
+I'm passionate about building scalable web applications, modern user experiences, and solving real-world business problems through technology.
+
+## 💻 Currently Working On
+
+- 🕶️ Building EYEDOO – An Eyewear E-commerce Platform
+- ⚡ Next.js + TypeScript Applications
+- 🛠️ PHP & MySQL Backend Systems
+- 🎨 Modern UI/UX Design
+- 🤖 AI-powered Business Solutions
+
+## 🧠 Interests
+
+- Full Stack Development
+- System Design
+- Software Architecture
+- Artificial Intelligence
+- Cloud Technologies
+- Data Science
+
+
+## 📫 Connect
+
+Email: **contact@adityamehra.org**
