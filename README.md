@@ -1,18 +1,18 @@
 # Hi there 👋 I'm Aditya Mehra
 
-🚀 Founder & Software Developer at **EYEDOO**
+## Founder & Software Developer at **EYEDOO**
 
 I'm passionate about building scalable web applications, modern user experiences, and solving real-world business problems through technology.
 
-## 💻 Currently Working On
+## Currently Working On
 
-- 🕶️ Building EYEDOO – An Eyewear E-commerce Platform
-- ⚡ Next.js + TypeScript Applications
-- 🛠️ PHP & MySQL Backend Systems
-- 🎨 Modern UI/UX Design
-- 🤖 AI-powered Business Solutions
+-  Building EYEDOO – An Eyewear E-commerce Platform
+-  Next.js + TypeScript Applications
+-  PHP & MySQL Backend Systems
+-  Modern UI/UX Design
+-  AI-powered Business Solutions
 
-## 🧠 Interests
+## Interests
 
 - Full Stack Development
 - System Design
@@ -22,6 +22,6 @@ I'm passionate about building scalable web applications, modern user experiences
 - Data Science
 
 
-## 📫 Connect
+## Connect
 
 Email: **contact@adityamehra.org**
